@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Actualmente estoy buscando practicas preprofesionales
-- 🌱Actualmente estoy aprendiendo aplicaciones moviles
-- 💬Pregúntame todo lo que deseas saber de mí
-- 📫Cómo contactarme: https://www.linkedin.com/in/mariela-mart%C3%ADnez-23010628a/ 
+- 🔭 I am currently looking for pre-professional internships
+- 🌱I am currently learning mobile applications
+- 💬Ask me everything you want to know about me
+- 📫How to contact me: https://www.linkedin.com/in/mariela-mart%C3%ADnez-23010628a/
