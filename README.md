@@ -5,6 +5,13 @@
 - 💬Ask me everything you want to know about me
 - 📫How to contact me: https://www.linkedin.com/in/mariela-mart%C3%ADnez-23010628a/
 
+<table width="100%" >
+
+ <tr>
+    <td width="60%">
+     
+## 🛠️ Skills
+
 #### Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
