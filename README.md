@@ -27,11 +27,11 @@
 
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Mariela-1&theme=shadow_red&show_icons=true" />
+  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=Mariela-1&theme=shadow_red&show_icons=true" />
  </br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Mariela-1&theme=radical&mode=weekly"/>
+  <img width="20%" src="https://github-readme-streak-stats.herokuapp.com?user=Mariela-1&theme=radical&mode=weekly"/>
  </br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariela-1&langs_count=7&layout=compact&theme=shadow_red" />
+  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariela-1&langs_count=7&layout=compact&theme=shadow_red" />
 </p>
      
   </td>
