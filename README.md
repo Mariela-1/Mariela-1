@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<br><br>
 
 - 🔭 I am currently looking for pre-professional internships
 - 🌱I am currently learning mobile applications
